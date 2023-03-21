@@ -1,0 +1,10 @@
+word1 = "gag"
+word2 = "hello"
+if is_palindrome(word1):
+    print(word1, "is a palindrome")
+else:
+    print(word1, "is not a palindrome")
+if is_palindrome(word2):
+    print(word2, "is a palindrome")
+else:
+    print(word2, "is not a palindrome")
